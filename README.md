@@ -41,8 +41,4 @@ Other: Anything that makes development faster and cleaner
 
 GitHub: you’re already here!
 
-Email: [moumenejjjj@gmail.com]
-
-Portfolio: [your site]
-
-LinkedIn: [your link]
+Email: moumenejjjj@gmail.com
